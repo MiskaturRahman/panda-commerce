@@ -23,3 +23,33 @@
     padding: 10px 20px;
     cursor: pointer;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+.cat1{
+    background-color: #692591;
+    
+}
+.cat2{
+    background-color: paleturquoise;
+}
+
+.cat3{
+    background-color: orangered;
+}
+
+.catagories h1{
+    color: white;
+}
+
+.catagories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
