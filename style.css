@@ -52,4 +52,23 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
+    margin: 30px;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+
+#subscribe{
+    height: 300px;
+}
+
+#subscribe h6{
+    color: gray;
+}
+
+footer{
+    text-align: center;
 }
